@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<TEI>
+    <header> Solo testo (quindi nel dtd metto #PCDATA. In questo modo mi dice che non posso inserire tag all'interno.
+        Deve essere obbligatrio uno
+    </header>
+    <facsimile>  Anche questo ha solo il testo. Questo è opzionale (anche in questo caso solo uno)</facsimile>
+    <text>  Anche questo solo testo. Questo è obbligatorio che ce ne sia almeno uno,
+        quindi vuol dire che ce ne possono essere più di uno.
+    </text>
+    <text> </text>
+</TEI>
