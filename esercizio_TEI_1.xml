@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE TEI SYSTEM "esercizio_TEI_1.dtd">
 
 <TEI>
     <header> Solo testo (quindi nel dtd metto #PCDATA. In questo modo mi dice che non posso inserire tag all'interno.
