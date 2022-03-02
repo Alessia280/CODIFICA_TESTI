@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Esempio di file XML non bene formato e successive correzioni
+
+<?xml version="1.1" encoding="UTF-8"?>
+<docu>
+    <element>
+
+    </element>
+    <nowell>
+        <over>
+    </noWell>
+        </over>
+</docu>
+
+-->
+
+<?xml version="1.0"encoding="UTF-8"?> 
+<docu>
+    <element>
+
+    </element>
+    <nowell>
+        <over>
+        </over>
+    </nowell>   
+</docu>
+
+<!-- Nel file erano presenti tre errori:
+1. la versione 1.1 non è supportata
+2. Il tag over è figlio del tag nowell, quindi deve iniziare e finire al suo interno
+3. Il tag di chiusura nowell aveva la maiuscola nella parola Well, quindi non era uguale al tag di apertura.
