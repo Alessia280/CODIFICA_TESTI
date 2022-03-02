@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "./XML_Attrivuti_DTD.dtd">
+
+<TEI>
+    <header> 
+    obbligatoria un'occorrenza
+    </header>
+
+    <text>
+    mixed content con possibile elemento <seg> seg </seg> 
+    </text>
+
+    <facsimile>
+    il suo valore è l'ID di un altro elemento
+    </facsimile>
+</TEI>

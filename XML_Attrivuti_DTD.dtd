@@ -1,0 +1,18 @@
+﻿<!ELEMENT TEI (header,facsimile?,text+)+ >
+
+<!ELEMENT header (#PCDATA) >
+<!ELEMENT facsimile (#PCDATA) >
+<!ELEMENTO text (#PCDATA | seg) >
+
+<!ATTLIST header 
+type CDATA "intestazione" #FIXED
+lang NMTOKEN #IMPLIED>
+
+<!ATTLIST facsimile 
+source #REQUIRED
+ref IDREFS #IMPLIED>
+
+<!ATTLIST text 
+id ID #REQUIRED
+type CDATA #IMPLIED>
+
