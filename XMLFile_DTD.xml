@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "./XMLFile_DTD.dtd">
+
+<TEI>
+    <header> 
+    obbligatoria un'occorrenza
+    </header>
+
+    <text>
+    Obbligatoria almeno un'occorrenza per questo ho deciso di inserire due
+    </text>
+
+    <text>
+    </text>
+
+    <!-- non era obbligatoria l'occorrenza per il facsimile -->
+</TEI>
