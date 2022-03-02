@@ -22,7 +22,11 @@
     </element>
     <nowell>
         <over>
+            
         </over>
+        <description>
+            
+        </description>
     </nowell>   
 </docu>
 
@@ -30,3 +34,5 @@
 1. la versione 1.1 non è supportata
 2. Il tag over è figlio del tag nowell, quindi deve iniziare e finire al suo interno
 3. Il tag di chiusura nowell aveva la maiuscola nella parola Well, quindi non era uguale al tag di apertura.
+
+Ho poi reso Over come un figlio e ho aggiunto un sibiling-->
