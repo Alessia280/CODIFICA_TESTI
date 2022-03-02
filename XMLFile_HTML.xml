@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<docu>
+    <elemento html>
+       <![CDATA[
+           <h1> 
+            Testo principale
+           </h1>
+
+           <h2> 
+           Sottotitolo
+           </h2>
+       ]]>
+
+    </elemento html>
+</docu>
