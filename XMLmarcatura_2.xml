@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Questo documento contiene l'esercitazione relativa ai puntatori, ai riferimenti nominali, alle date etc.-->
+<!DOCTYPE TEI SYSTEM "./">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Editoria </title>
+				<respStmt> 
+					<name> Alessandro <hi rend="uppercase"> GUSMANO </hi></name>
+				</respStmt>
+			</titleStmt>
+			<pubblicationStmt>
+				<publisher> La comunicazione: il dizionario di scienze e tecniche </publisher>
+				<date> 2022-03-03 </date>
+			</pubblicationStmt>
+		</fileDesc>
+	</teiHeader>
+
+	<front>
+		<titlePage>
+			<titlePart> Editoria </titlePart>
+			<byline> Autore: <docAuthor> Alessandro <hi rend="uppercase"> GUSMANO </hi> </docAuthor> </byline>
+		</titlePage>
+	</front>
+	<text> 
+		<head type="paragrafo" rend="double" xml:lang ="ita"> 2. Sintesi storica e tecnica </head>
+		<p>La stampa con caratteri mobili, inventata da <name type="person"> <ref target="https://www.lacomunicazione.it/voce.php?id=622"/> Gutenberg </name> intorno alla metà del <date when="400">Quattrocento </date>, si presentò fin dagli inizi come un’industria, 
+		soggetta alle stesse leggi di mercato che governano le altre; il suo prodotto, i libri.</p>
+
+		<p>Nuova in tutte le sue componenti tecniche, l’industria tipografica (<ref target="https://www.lacomunicazione.it/voce.php?id=622"/>Tipografia) prese subito un aspetto ‘moderno’ e le officine dei tipografi non erano 
+		più simili alle botteghe medievali. Ad esempio già nel <date when="1458"> 1458 </date>, <name type="person"> J. Fust </name>e <name type="person">P. Schöffer </name>(collaboratori di <name type="person">Gutenberg </name>) gestivano una stamperia organizzata per il lavoro 
+		‘in serie’; vent’anni dopo grandi stamperie con dozzine di lavoranti, specializzati per le varie operazioni, funzionavano in molti Stati europei. 
+		Si andava delineando una <hi rend="italic">industria editoriale </hi> ben lontana dallo <term rend="italic" xml:lang ="latin"> scriptorium </term>, che avrebbe sconvolto la tradizionale diffusione medioevale della cultura.</p>
+	</text>
+</TEI>
+
