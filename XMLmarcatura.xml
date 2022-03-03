@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Questo documento contiene l'esercitazione relativa alla marcatura di un testo a scelta -->
-<!DOCTYPE TEI SYSTEM "./">
+<!-- Questo documento contiene l'esercitazione relativa alla marcatura di un testo a scelta senza l'utilizzo di puntatori, liste, riferimenti ai nomi. Attenzione focalizzata sui div e i paragrafi -->
+<!DOCTYPE TEI SYSTEM /">
 <TEI>
 	<teiHeader>
 		<fileDesc>
