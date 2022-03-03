@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Questo documento contiene l'esercitazione relativa alla marcatura di un testo a scelta -->
+<!DOCTYPE TEI SYSTEM "./">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Teorie e tecniche di catalogazione> </title>
+				<respStmt> 
+					<name> Alessia Orfanotti </name>
+				</respStmt>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+
+	<text>
+		<head type="capitolo" xml:lang ="ita"> Capitolo 1 </head>
+
+		<div type="paragrafo" xml:lang ="ita"> 
+			<pagina n="1"/>
+			<p>La catalogazione è un’attività pratica che consiste nel redigere delle registrazioni secondo determinate norme, allo scopo di realizzare un catalogo che svolga un determinato servizio.  Sono indicazioni che spiegano come operare per raggiungere un determinato risultato. Per questo, pur avendo affinità con la registrazione bibliografica, ha regole proprie che devono rispondere a scopi precisi.</p>
+			<p><hi rend="bold">Catalogo</hi>: elenco ordinato e sistematico di più oggetti dello stesso tipo. Il catalogo deve contenere indicazioni che permettono a chi consulta di individuare subito un certo prodotto. I cataloghi non contengono solo un tipo di registrazione (record bibliografici), ma in genere anche i record di autorità e di copia.</p>
+			<p>Il catalogo elettronico è quindi un sistema complesso costituito da molte diverse componenti che devono essere progettate adeguatamente e funzionare correttamente. </p>
+			<p>Il catalogo è un sistema informativo finalizzato a svolgere un servizio e non un insieme di registrazioni bibliografiche. </p>
+			<p>I cataloghi e i motori di ricerca sono fenomeni differenti, perché i primi operano su registrazioni bibliografiche controllate da fonte, mentre i secondi su risorse eterogenee la cui produzione è incontrollata. </p>
+		</div>
+
+		<div type="paragrafo" xml:lang ="ita">
+			<h2 type="titolo" rend="underline"> Funzioni del catalogo </h2>
+			<p> La prima funzione del catalogo è quella di permettere di accertare se un certo libro è posseduto dalla biblioteca e in genere dove si trova il materiale. Nei cataloghi elettronici, tutte le informazioni registrate sono in genere ricercabili, senza che questo richieda un lavoro supplementare. Anche nei cataloghi elettronici, però non sempre la ricerca è rapida, ad esempio perché il termine utilizzato è molto comune o perché la forma non è corretta. 
+			La prima definizione formalizzata delle funzioni del catalogo venne proposta da Charles A. Cutter, un bibliotecario americano secondo il quale gli <foreign xml:lang="ing" rend="italic">objects </foreign> del catalogo sono essenzialmente di tre tipi:</p>
+			<hi rend="bold"> 1.Mettere una persona in grado di trovare il libro di cui conosca autore o titolo o soggetto </hi> (il catalogo deve fornire più vie per poter trovare un certo libro e quindi non solo il nome dell’autore. Mentre sui cataloghi con supporto statico ogni diversa via d’accesso ha un costo e occupa uno spezio, nei cataloghi elettronici tutte le informazioni possono essere utilizzate per la ricerca)
+			<hi rend="bold"> 2.Mostrare cosa la biblioteca ha di un certo autore, su un certo argomento e in un certo genere </hi> (ricerca di un insieme di opere che condividono una caratteristica importante che interessa al lettore, quindi opere di un autore, opere su un certo argomento e opere dello stesso genere) 
+			<hi rend="bold"> 3.Aiutare nella scelta del libro quanto alla sua edizione e al suo carattere </hi> (non riguarda la fase di ricerca come per i primi due, ma piuttosto quella successiva dove l’utente esamina ciò che ha recepito e dovrebbe trovare esposte in modo chiaro e ordinato tutte le informazioni rilevanti) 
+			<pagina n="2"/>
+			<p>La sua formulazione non è poi stata sostituita da altre e può costituire tuttora una buona guida per comprendere nel loro insieme le funzioni di un catalogo di biblioteca. 
+			Con la conferenza di Parigi del 1961 si definisce come seconda funzione quella di segnalare al lettore tutte le edizioni di una stessa opera e come terza funzione tutte le opere di uno stesso autore. 
+			Le norme in genere indicano quali informazioni è obbligatorio registrare, lasciando ampio spazio per l’aggiunta di ulteriori informazioni considerate facoltative.
+			 </p>
+		</div>
+	</text>
+</TEI>
